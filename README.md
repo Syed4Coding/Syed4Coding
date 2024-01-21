@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ---
 
 ### :technologist: About Me : I am a Full Stack Developer <img src = "https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy-downsized.gif" width="50" height = "50">from India.
-- :telescope: I’m working as a Technical Support Specialist and like to enhance my skills on frontend and backend for building web applications.
+- :telescope: I’m working as a Technical Support Specialist and would like to enhance my skills on frontend and backend for building web applications.
 
 - :seedling: Exploring my skills may someone can be benifited.
 
